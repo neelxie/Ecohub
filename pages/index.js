@@ -2,8 +2,11 @@ import Head from "next/head";
 import { useLoadScript } from "@react-google-maps/api";
 import styles from "../styles/Home.module.css";
 import React, { useState } from "react";
-import Map from "./Map";
-import { redMarker, addIconAttribute } from "./utils";
+import Map from "../MapComponent";
+import addIconAttribute from "../utils";
+
+// if I made this and export we would have a build error
+const redMarker = "http://maps.google.com/mapfiles/ms/icons/red-dot.png";
 
 export default function Home({ data: { organisations } }) {
   {/* Set intial markers state from props*/}
