@@ -14,4 +14,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## Deploy on Vercel
 This has been deployed on Vercel.
 
-Check out [here](https://nextjs.org/docs/deployment) for running application.
+Check out [here](https://ecohub-avtlq6zot-neelxie.vercel.app/) for running application.
