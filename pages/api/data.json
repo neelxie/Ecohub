@@ -1,0 +1,84 @@
+{ "organisations": [
+  {
+    "organisationName": "National Association of Women's Organisations in Uganda",
+    "key": 1,
+    "location": {
+      "lat": 0.3195591610479214,
+      "lng": 32.56402931455941
+    }
+  },
+  {
+    "organisationName": "Food And Agricultural Organization",
+    "key": 2,
+    "location": {
+      "lat": 0.33415099245078456,
+      "lng": 32.5753612568189
+    }
+  },
+  {
+    "organisationName":
+      "National Association Of Women Organisations In Uganda (Nawou)",
+    "key": 3,
+    "location": {
+      "lat": 0.32917238854177416,
+      "lng": 32.58429009261967
+    }
+  },
+  {
+    "organisationName": "Womens Federation for Peace in Uganda",
+    "key": 4,
+    "location": {
+      "lat": 0.3265972134210239,
+      "lng": 32.58566382527705
+    }
+  },
+  {
+    "organisationName": "Women Prisoner Support Organisation",
+    "key": 5,
+    "location": {
+      "lat": 0.34685540838804085,
+      "lng": 32.59115944809245
+    }
+  },
+  {
+    "organisationName": "Kiwuwa Foundation Uganda",
+    "key": 6,
+    "location": {
+      "lat": 0.3353526969120751,
+      "lng": 32.5745027619714
+    }
+  },
+  {
+    "organisationName": "WSDFs and Umbrella Organisations Uganda",
+    "key": 7,
+    "location": {
+      "lat": 0.3238496913941592,
+      "lng": 32.60747418089591
+    }
+  },
+  {
+    "organisationName": "World Vision",
+    "key": 8,
+    "location": {
+      "lat": 0.3248806117364599,
+      "lng": 32.578280213213645
+    }
+  },
+  {
+    "organisationName": "IFAD Uganda",
+    "key": 9,
+    "location": {
+      "lat": 0.34256351503787363,
+      "lng": 32.59648287972395
+    }
+  },
+  {
+    "organisationName": "International Refugee Rights Initiative",
+    "key": 10,
+    "location": {
+      "lat": 0.33329262590885333,
+      "lng": 32.58171442433095
+    }
+  }
+]
+}

@@ -1,53 +1,43 @@
 .container {
-  padding: 0 2rem;
+  padding: 0 0.5rem;
 }
 
 .main {
   min-height: 100vh;
-  padding: 4rem 0;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
+  padding: 0.3rem 0;
+  display: grid;
+  grid-template-columns: 60% 40%;
   justify-content: center;
   align-items: center;
+  gap: 0.5rem;
 }
 
-.footer {
-  display: flex;
-  flex: 1;
-  padding: 2rem 0;
-  border-top: 1px solid #eaeaea;
-  justify-content: center;
-  align-items: center;
+.Panel {
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  height: 100%;
 }
 
-.footer a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-grow: 1;
+.PanelHead {
+  background-color: #007bff;
+  border-color: #ddd;
+  color: #fff;
+  padding: 0.5rem;
+  padding: 1rem 1.5rem;
+  line-height: 1.3;
 }
 
-.title a {
-  color: #0070f3;
-  text-decoration: none;
+.Organisation {
+  position: relative;
+  display: block;
+  padding: 1rem 1.5rem;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.125);
 }
 
-.title a:hover,
-.title a:focus,
-.title a:active {
-  text-decoration: underline;
-}
-
-.title {
-  margin: 0;
-  line-height: 1.15;
-  font-size: 4rem;
-}
-
-.title,
-.description {
-  text-align: center;
+.Organisation:hover {
+  background-color: #e9ecef;
+  cursor: pointer;
 }
 
 .description {
